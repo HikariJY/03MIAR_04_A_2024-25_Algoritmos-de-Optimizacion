@@ -5,4 +5,5 @@ Autor: **Josseph Yaakob Catagua Cobos**
 - [03MIAR_Guia_Didactica.pdf](https://github.com/HikariJY/03MIAR_04_A_2024-25_Algoritmos-de-Optimizacion/blob/main/03MIAR_Guia_Didactica.pdf)
 - [03MIAR_Guia_Didactica_Anexo.pdf](https://github.com/HikariJY/03MIAR_04_A_2024-25_Algoritmos-de-Optimizacion/blob/main/03MIAR_Guia%20Didactica__Anexo.pdf)
 ## **Actividades**
-NA
+- [Actividad Grupal 01](https://github.com/HikariJY/03MIAR_04_A_2024-25_Algoritmos-de-Optimizacion/blob/main/Actividades/AG1/AG1_Mio_Anaconda.ipynb)
+- NA
